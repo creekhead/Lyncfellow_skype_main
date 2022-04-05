@@ -1,0 +1,360 @@
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\bin\Debug\LyncFellow.exe
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\bin\Debug\Microsoft.Lync.Model.dll
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.csprojResolveAssemblyReference.cache
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\Users\pk\Documents\GitHub\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.csprojResolveAssemblyReference.cache
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\bin\Debug\LyncFellow.exe
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\bin\Debug\Microsoft.Lync.Model.dll
+C:\Users\pk\Documents\GitHub\LyncFellow - Working\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\LYNCFELLOW\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\bin\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\bin\Debug\Microsoft.Lync.Model.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.csprojResolveAssemblyReference.cache
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move\LyncFellow\obj\x86\Debug\LyncFellow.userStatDisplay.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Lync.Model.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.userStatDisplay.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Lync.Controls.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Lync.Controls.Framework.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Lync.Utilities.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Lync.Controls.xml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\Microsoft.Lync.Model.xml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.baml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\Window1.baml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.g.cs
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\Window1.g.cs
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow_MarkupCompile.cache
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - Add PresanceIndicator\LyncFellow\obj\x86\Debug\LyncFellow.g.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Lync.Controls.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Lync.Controls.Framework.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Lync.Model.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Lync.Utilities.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Lync.Controls.xml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Microsoft.Lync.Model.xml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.baml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\Window1.baml
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.g.cs
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\Window1.g.cs
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow_MarkupCompile.cache
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.g.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.userStatDisplay.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Properties\Settings.Designer.cs
+C:\TEMP\LYNCFELLOW\LyncFellow - Working_move - SEPT_17_WORKING_WITH_PRESENCE\LyncFellow\bin\Debug\Properties\Settings.settings
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Properties\Settings.Designer.cs
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Properties\Settings.settings
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Microsoft.Lync.Controls.xml
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Microsoft.Lync.Model.xml
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.baml
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\Window1.baml
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.g.cs
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\Window1.g.cs
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow_MarkupCompile.cache
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.g.resources
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.csprojResolveAssemblyReference.cache
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Properties\Settings.Designer.cs
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Properties\Settings.settings
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\LyncFellow.exe
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Microsoft.Lync.Controls.xml
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\Microsoft.Lync.Model.xml
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\da-DK\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\de-DE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\es-ES\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fi-FI\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\fr-FR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\it-IT\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ja-JP\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ko-KR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nb-NO\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\nl-NL\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\pt-BR\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\ru-RU\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\sv-SE\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-CN\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\bin\Debug\zh-TW\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.csprojResolveAssemblyReference.cache
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.baml
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\Window1.baml
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.g.cs
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\Window1.g.cs
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow_MarkupCompile.cache
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.g.resources
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\1-LYNCFELLOW\LyncFellow\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.baml
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\Window1.baml
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\PresenceIndicatorItem.g.cs
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\Window1.g.cs
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow_MarkupCompile.cache
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.g.resources
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.SettingsForm.resources
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.Properties.Resources.resources
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.csproj.GenerateResource.Cache
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.exe
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Properties\Settings.Designer.cs
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Properties\Settings.settings
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\LyncFellow.exe.config
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\LyncFellow.exe
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\LyncFellow.pdb
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Lync.Controls.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Lync.Controls.Framework.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Lync.Model.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Lync.Utilities.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Office.Uc.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Lync.Controls.xml
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\Microsoft.Lync.Model.xml
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\az-latn-az\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\be-by\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\bg-bg\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ca-es\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\cs-cz\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\da-dk\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\de-de\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\el-gr\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\en-us\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\es-es\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\et-ee\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\eu-es\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\fi-fi\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\fil-ph\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\fr-fr\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\gl-es\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\hi-in\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\hr-hr\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\hu-hu\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\id-id\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\it-it\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ja-jp\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\kk-kz\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ko-kr\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\lt-lt\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\lv-lv\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\mk-mk\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ms-my\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\nb-no\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\nl-nl\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\pl-pl\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\pt-br\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\pt-pt\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ro-ro\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ru-ru\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sk-sk\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sl-si\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sq-al\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sv-se\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\th-th\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\tr-tr\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\uk-ua\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\uz-latn-uz\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\vi-vn\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\zh-cn\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\zh-tw\Microsoft.Lync.Controls.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\az-latn-az\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\be-by\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\bg-bg\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ca-es\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\cs-cz\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\da-dk\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\de-de\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\el-gr\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\en-us\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\es-es\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\et-ee\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\eu-es\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\fi-fi\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\fil-ph\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\fr-fr\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\gl-es\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\hi-in\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\hr-hr\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\hu-hu\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\id-id\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\it-it\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ja-jp\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\kk-kz\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ko-kr\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\lt-lt\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\lv-lv\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\mk-mk\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ms-my\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\nb-no\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\nl-nl\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\pl-pl\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\pt-br\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\pt-pt\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ro-ro\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\ru-ru\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sk-sk\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sl-si\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sq-al\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\sv-se\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\th-th\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\tr-tr\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\uk-ua\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\uz-latn-uz\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\vi-vn\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\zh-cn\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\bin\Debug\zh-tw\Microsoft.Lync.Controls.Framework.resources.dll
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.pdb
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.csproj.CoreCompileInputs.cache
+C:\TEMP\1-LYNCFELLOW\OLD_DEBUGGING\LyncFellow - 2022\LyncFellow\obj\x86\Debug\LyncFellow.csproj.CopyComplete
