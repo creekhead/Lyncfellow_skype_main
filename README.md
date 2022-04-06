@@ -23,19 +23,13 @@ This code integrated the iBuddy with Skype for Buysiness, it allows all the acti
 PS. Iam sure it needs debugging it is a VERY rought application and has some issues, we no longer use Skype for Business so the dev has stopped for now, but i might tweak it for Teams instead one day
 
 
-![In a single picture](https://raw.githubusercontent.com/creekhead/Lyncfellow_skype_main/main/Resources/right_click_menu.png)
-
+<h3>LyncFellow task bar - right click menu :</h3>
 
 ![Preview](https://raw.githubusercontent.com/creekhead/Lyncfellow_skype_main/main/Resources/right_click_menu.png)
 
-<h3>LyncFellow task bar - right click menu :</h3>
-
-<img src="/creekhead/Lyncfellow_skype_main/blob/main/Resources/right_click_menu.png?raw=true" style="max-width: 100%;">
-
 <h3>iBuddy:</h3>
 
-
-<img src="/creekhead/Lyncfellow_skype_main/blob/main/Resources/ibuddy.png?raw=true" style="max-width: 100%;">
+![Preview](https://raw.githubusercontent.com/creekhead/Lyncfellow_skype_main/main/Resources/ibuddy.png)
 
 </body>
 </html>
