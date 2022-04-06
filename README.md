@@ -25,10 +25,12 @@ PS. Iam sure it needs debugging it is a VERY rought application and has some iss
 
 <h3>LyncFellow task bar - right click menu :</h3>
 
-<img src="/creekhead/Lyncfellow_skype_main/blob/main/Resources/right_click_menu.png?raw=true">
+<img src="/creekhead/Lyncfellow_skype_main/blob/main/Resources/right_click_menu.png?raw=true" style="max-width: 100%;">
+
 <h3>iBuddy:</h3>
 
-<img src="/creekhead/Lyncfellow_skype_main/blob/main/Resources/ibuddy.png?raw=true">
+
+<img src="/creekhead/Lyncfellow_skype_main/blob/main/Resources/ibuddy.png?raw=true" style="max-width: 100%;">
 
 </body>
 </html>
